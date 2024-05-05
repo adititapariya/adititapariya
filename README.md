@@ -1,3 +1,4 @@
+![logo](https://github.com/adititapariya/adititapariya/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditi Tapariya!</h1>
 <h3 align="center">Passionate Developer Crafting Tomorrow's Solutions....</h3>
 
