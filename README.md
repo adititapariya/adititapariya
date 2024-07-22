@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adititapariya&label=Profile%20views&color=0e75b6&style=flat" alt="adititapariya" /> </p>
 
-<p style="text-align: justify;">Passionate about technology and innovation, I'm a pre-final year student at NIT Surat, excelling in algorithm development and programming (C++, Python, Embedded C). My expertise expands to full-stack web development (HTML, CSS, JavaScript, EJS, React, Node.js), utilizing Firebase for backend functionality. Comfortable with simulation environments and Linux, I'm driven to leverage my skills for impactful projects and meaningful contributions.</p>
+<p style="text-align: justify;">Passionate about technology and innovation, I'm a final-year student at NIT Surat, excelling in algorithm development and programming (C++, Python, Embedded C). My expertise expands to full-stack web development (HTML, CSS, JavaScript, EJS, React, Node.js, Express, and MongoDB), utilizing Firebase for backend functionality. Comfortable with simulation environments and Linux, I'm driven to leverage my skills for impactful projects and meaningful contributions.</p>
 
 - 📫 Reach me at **tapariyaaditi23@gmail.com**.
 
