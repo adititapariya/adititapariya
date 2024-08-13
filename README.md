@@ -26,7 +26,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adititapariya&show_icons=true&locale=en&layout=compact" alt="adititapariya" /></p>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h3 align="left">Postman Badge:</h3>
 <p><img align="left" src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" alt="postman" /><p>
