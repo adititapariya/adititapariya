@@ -30,3 +30,5 @@
 
 <h3 align="left">Postman Badge:</h3>
 <p><img align="left" src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" alt="postman" /><p>
+
+[![An image of @adititapariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adititapariya)](https://holopin.io/@adititapariya)
