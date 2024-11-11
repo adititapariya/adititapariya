@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **tapariyaaditi23@gmail.com**.
 
-- ⚡ Fun fact: **I once programmed a beach cleaning robot 🤖, but it got sidetracked and started building sandcastles 🏖️ instead. Turns out, even robots need a vacation!"**
+- ⚡ Fun fact: **I once programmed a beach cleaning robot 🤖, but it got sidetracked and started building sandcastles 🏖️ instead. Turns out, even robots need a vacation!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
